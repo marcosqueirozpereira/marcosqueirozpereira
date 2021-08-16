@@ -1,17 +1,12 @@
-Olá, eu sou Marcos  Queiroz Pereira
+## Olá, eu sou Marcos  Queiroz Pereira
 
-- 🔭 I’m currently working com back-end
-- 🌱 Estudando Spring boot e Salesforce
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 Eu trabalho com back-end
+- 🌱 Estudando Spring boot | Salesforce | Metodologia ágil
 - 😄 Pronomes: ele/dele
 
-
+<div>
   <a href="https://github.com/marcosqueirozpereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src=https://github-readme-stats.vercel.app/api?username=marcosqueirozpereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true” / >
+  <img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=marcosqueirozpereira&layout=compact&langs_count=7&theme=dark / >
 </div>
 
--->
