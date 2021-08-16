@@ -1,7 +1,8 @@
 ## Olá, eu sou Marcos  Queiroz Pereira
 
+
 - 🔭 Eu trabalho com back-end
-- 🌱 Estudando Spring boot | Salesforce | Metodologia ágil
+- 🌱 Estudando Spring Boot | Salesforce | Metodologia ágil
 - 😄 Pronomes: ele/dele
 
 
@@ -13,6 +14,7 @@
   
   ##
 
+  Meus contatos: 
 <div> 
   
   <a href="https://instagram.com/marcosqueiroz.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
